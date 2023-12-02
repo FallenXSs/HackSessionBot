@@ -1,6 +1,7 @@
 import asyncio
 import importlib
 
+import railway
 from pyrogram import idle
 from HackSessionBot import LOG
 from HackSessionBot.modules import ALL_MODULES
